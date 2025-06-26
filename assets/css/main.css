@@ -984,6 +984,10 @@ input, select, textarea {
 			width: 95%;
 			margin: 0 auto !important
 		}
+		.image.fitwork {
+			display: block;
+			width: 100%;
+		}
 
 		.image.left {
 			float: left;
